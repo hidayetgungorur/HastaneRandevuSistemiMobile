@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BHRS</string>
+    <string name="kullaniciadi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris">Giriş</string>
+    <string name="hesapOlustur">Hesap Oluştur</string>
+    <string name="doktor">Doktor</string>
+    <string name="cikis">Çıkış Yap</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="iptal">Iptal</string>
+    <string name="adi">Adı</string>
+    <string name="soyadi">Soyadı</string>
+    <string name="tc">T.C Kimlik Numarası</string>
+    <string name="dogumTarihi">Doğum Tarihi</string>
+    <string name="telefon">Telefon</string>
+    <string name="email">Email</string>
+    <string name="cinsiyet">Cinsiyet</string>
+</resources>
